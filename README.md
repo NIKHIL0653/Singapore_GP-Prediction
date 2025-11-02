@@ -171,10 +171,6 @@ Singapore's Marina Bay Street Circuit presents unique challenges:
 
 This project highlights the complexity of F1 prediction, where raw data meets strategic insight. While the model achieves good accuracy (78% variance explained), it underscores that motorsport outcomes involve human elements beyond pure data analysis. The Singapore GP's unique characteristics make it particularly suitable for demonstrating sophisticated feature engineering and domain expertise.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 **Nikhil Choudhary**
